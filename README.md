@@ -5,7 +5,7 @@
 <h3 align="center">Frontend Developer & Machine Learning Enthusiast | Actively Seeking New Opportunities</h3>
 
 <p align="center">
-  <em>2024 Computer Science Engineering Graduate with hands-on experience in frontend development and cloud-based AI/ML solutions</em>
+  <em> Computer Science Engineering Graduate with hands-on experience in frontend development and cloud-based AI/ML solutions</em>
 </p>
 
 ---
